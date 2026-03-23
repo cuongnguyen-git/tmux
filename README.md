@@ -9,3 +9,4 @@ I got tired of opening up 4 panes, and setting up my workflow, so I scripted it 
 4. working directory
 
 ## Screenshot
+![tmux](https://raw.githubusercontent.com/cuongnguyen-git/tmux/refs/heads/main/Screenshot_2026-03-23_08-20-20.png)
